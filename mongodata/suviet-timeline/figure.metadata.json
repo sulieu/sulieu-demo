@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":1,"key":{"_id":1},"name":"_id_","ns":"suviet_demo.figure"},{"v":1,"unique":true,"key":{"slug":1},"name":"slug_1","ns":"suviet_demo.figure","background":true}]}
